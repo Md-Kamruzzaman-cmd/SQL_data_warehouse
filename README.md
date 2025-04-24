@@ -1,4 +1,4 @@
-### SQL_data_warehouse
+# SQL_data_warehouse
 
 Building a modern data warehouse with SQL Server, including ETL processes, data modeling, and analytics. This project demonstrates a comprehensive data warehousing and analytics solution, from building a data warehouse to generating actionable insights.
 
@@ -17,6 +17,6 @@ Building a modern data warehouse with SQL Server, including ETL processes, data 
     -Scope: Focus on the latest dataset only; historization of data is not required.
     -Documentation: Provide clear documentation of the data model to support both business stakeholders and analytics teams.
 
-  # BI: Analytics and Reporting
-    # Objective
+  ### BI: Analytics and Reporting
+    ## Objective
       
