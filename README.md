@@ -21,5 +21,9 @@ Building a modern data warehouse with SQL Server, including ETL processes, data 
     -Documentation: Provide clear documentation of the data model to support both business stakeholders and analytics teams.
 
 ### BI: Analytics and Reporting
-  ## Objective
+  ### Objective
+  Develop SQL-based analytics to deliver detailed insights into:
+    -Customer Behaviour
+    -Product Performance
+    -Sales Trends
       
